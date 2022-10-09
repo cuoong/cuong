@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Cuong
 - 👀 I’m interested in indie hacker 🤖 
-- 📫 How to reach me via email or Twitter
+- 📫 How to reach me via email or Twitter:
+
 📧: cuongnt04230@gmail.com
+
 🌎: https://twitter.com/cuongnt_hn
 
 <!---
